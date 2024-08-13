@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/2103Sanjay/far-away/static/css/main.be90cef1.css",
+    "main.js": "/2103Sanjay/far-away/static/js/main.3c91777c.js",
+    "index.html": "/2103Sanjay/far-away/index.html",
+    "main.be90cef1.css.map": "/2103Sanjay/far-away/static/css/main.be90cef1.css.map",
+    "main.3c91777c.js.map": "/2103Sanjay/far-away/static/js/main.3c91777c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be90cef1.css",
+    "static/js/main.3c91777c.js"
+  ]
+}
